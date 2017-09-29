@@ -1,1 +1,0 @@
-Copy the file "Loss-Curves.csv" from the "Outputs" folder and update the emf with gnuplot
