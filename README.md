@@ -15,4 +15,4 @@ The original datasets used for my dissertation were found online. They are all r
 * Reuters (r8 - single label) Dataset: http://ana.cachopo.org/datasets-for-single-label-text-categorization
 
 Alternatively you can find them here:
-  My personal dropbox (I promise I won't delete them for as long as I have dropbox): https://www.dropbox.com/sh/qrj6ztpy5y5fkhj/AADNFNIeDZflFwWEF3jRKhQUa?dl=0
+* https://www.dropbox.com/sh/qrj6ztpy5y5fkhj/AADNFNIeDZflFwWEF3jRKhQUa?dl=0 (personal dropbox - I promise I won't delete them for as long as I have dropbox)
